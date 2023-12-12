@@ -1,0 +1,19 @@
+# Ignore artifacts:
+/coverage/
+/build/
+/dist-ssr/
+/dist/
+/temp/
+
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.temp/
+.tmp/

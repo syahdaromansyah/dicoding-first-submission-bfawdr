@@ -1,6 +1,6 @@
-# The Belajar Fundamental Aplikasi Web Dengan React Course on Dicoding
+# The _Belajar Fundamental Aplikasi Web Dengan React_ Course on Dicoding
 
-## The Membangun Single-Page Application Menggunakan React Submission (The First Submission)
+## The _Membangun Single-Page Application Menggunakan React_ Submission (The First Submission)
 
 ### License
 

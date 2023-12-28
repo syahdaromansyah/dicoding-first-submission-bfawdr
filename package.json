@@ -1,8 +1,9 @@
 {
-  "name": "membangun-single-page-application-menggunakan-react",
+  "name": "dicoding-first-submission-bfawdr",
+  "description": "The first submission of the 'Belajar Fundamental Aplikasi Web Dengan React' (Learn The Fundamental of Web Applications With React) course on the Dicoding about creating a notes app with React.js",
   "author": "Syahda Romansyah <syahdarom@gmail.com>",
   "private": true,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
